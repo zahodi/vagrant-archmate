@@ -1,4 +1,5 @@
 # -*- mode: ruby -*-
+# test from valentin
 # vi: set ft=ruby :
 
 Vagrant.configure(2) do |config|
