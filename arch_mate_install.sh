@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+#test PR stuff
+
 sudo pacman -Syyu          --color=auto --noconfirm
 sudo pacman -S    --needed --color=auto --noconfirm \
   mate \
